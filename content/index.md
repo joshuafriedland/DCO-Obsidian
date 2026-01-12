@@ -33,7 +33,8 @@ This would also allow us to start storing other code related tasks in a [GitHub 
 
 #### Follows all ITS Security rules regarding sensitive data
 
-Once we create a [GitHub Organization](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/about-organizations), we will be able to limit access to this site to only the individuals we invite to the repository.  This adds the website behind the [[SSO]] barrier, which is the same as the [Teamdynamix Knowledge Base](https://teamdynamix.umich.edu/TDClient/30/Portal/Home/) and [Google Drive](https://drive.google.com/).  
+Once we create a [GitHub Organization](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/about-organizations), we will be able to limit access to this site to only the individuals we invite to the repository.  This adds the website behind the SSO barrier, which is the same as the [Teamdynamix Knowledge Base](https://teamdynamix.umich.edu/TDClient/30/Portal/Home/) and [Google Drive](https://drive.google.com/).  
+
 #### Powerful features
 
 Features like `in line code`, for easy copy and past strings.  The ability to update all [[internal links]] when you rename them, saving you from having to update every single article individually.  A find and replace plugin that can be used on every document on the site.  Any feature available in the markdown language, the version control of [GitHub], and the highly customizable nature of [Obsidian] gives us a vast array of tools to make organizing and updating our knowledge pain free.
@@ -42,11 +43,13 @@ Features like `in line code`, for easy copy and past strings.  The ability to up
 
 #### Site management will require site administrators
 
-While editing individual documents to add to the site is easy, managing the overall website will require more in depth training.  This causes two main issues.  First, we need to create #training for specific staff members to become site administrators (preferably having one available during each main shift).  Second, A [[Knowledge Submission Process]] will need to be created to allow for all staff members to create knowledge.
+While editing individual documents to add to the site is easy, managing the overall website will require more in depth training.  This causes two main issues.  First, we need to create #training for specific staff members to become site administrators (preferably having one available during each shift).  Second, A [[Knowledge Submission Process]] (coming soon) will need to be created so that staff members who with to continue using their preferred tools can submit articles and knowledge to the website.
 
-#### No concurrent editing allowed currently
+#### No concurrent editing allowed*
 
-While there are ways to allow us to make changes to the site concurrently, they have not been implemented yet.  This is a problem with a potential solution, but we aren't ready to confirm if we can do this at this time.  
+While there are ways to allow us to make changes to the site concurrently, they have not been implemented yet.  
+
+> [!info] This is a problem with a potential solution, but further managerial input will be required
 #### Not fully integrated with the TDx Environment
 
 Due to restrictions in embedding articles from the [Teamdynamix Knowledge Base](https://teamdynamix.umich.edu/TDClient/30/Portal/Home/), we are not able to add and sync our knowledge.  We will need to rely on external linking, to articles within the KB on this site, which is the same system we used with the google site.

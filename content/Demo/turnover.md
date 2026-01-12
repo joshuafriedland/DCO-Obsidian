@@ -13,7 +13,7 @@ Here is an example of how we could integrate turnover into the website.  Since w
 | Creation Date | Next Action Date | Description                       | Action                                                                                                                                                  | Ticket          | Contact   |
 | ------------- | ---------------- | --------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- | --------- |
 | 1/8/2026      | 1/20/2026        | `Device Name` in maintenance mode | `device name` has been placed in maintenance mode for construction until 1/20/2026.  DCO needs to remove the device form maintenance mode on this date. | `Ticket Number` | [[UMnet]] |
-| 1/8/2026      |                  | update to how we use [[tags]]     | We could also add changes to the website using linking and #tagging                                                                                     | N/A             | [[IOC]]   |
+| 1/8/2026      |                  | update to how we use [[tags]]     | We could also add changes to the website using [[internal links]] and #tagging                                                                          | N/A             | [[IOC]]   |
 
 ### The Google Sheet Can Still Be Added
 

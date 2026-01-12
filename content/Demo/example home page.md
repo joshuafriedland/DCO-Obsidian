@@ -3,7 +3,6 @@ title: example home page
 draft: false
 tags:
   - hub
-  - dailytask
 ---
  
 # Important links
@@ -15,8 +14,8 @@ tags:
 ### Commonly used tools/knowledge
 
 - [[Data Center Locations]]
-- `Link to Foreseer`
-- #sprecrum Documentation
+- `Link to Foreseer or other external sites`
+- Remember to use the #hub tab when searching to find are navigation pages for each service, and the #dailytask tag to find commonly completed processes!
 
 ---
 
