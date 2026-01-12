@@ -4,7 +4,7 @@ title: Welcome to the IOC Test Site
 
 This is a proof of concept prototype of a potential replacement to the ITS Data Center Operations Google Site.  The website is built in [GitHub](https://github.com/) pages, using a markdown to html converter called [quartz 4](https://quartz.jzhao.xyz/).  We used a markdown editor called Obsidian to write and edit the individual pages on this site.  While this is the recommended way to work, it is possible to write articles using any text editor as long as they following the [syntax](https://www.markdownguide.org/basic-syntax/) used for markdown.
 
- We've included a few examples of different features, such as [[internal links]], [[tags]], [[callouts]], and [[properties]].  We made sure to include some examples of critical functions of current google site, including a [[turnover]] page, and an [[example home page]].  We will also go over how we plan to organize the website using a [[knowledge structure]], allowing us to keep our information up to date and assist with #training new staff members.    Check out our list of pros and cons below and take some time to explore all this demo has to offer!
+ We've included a few examples of different features, such as [[internal links]], [[tags]], and [[properties]].  We made sure to include some examples of critical functions of current google site, including a [[turnover]] page, and an [[example home page]].  We will also go over how we plan to organize the website using a [[knowledge structure]], allowing us to keep our information up to date and assist with #training new staff members.    Check out our list of pros and cons below and take some time to explore all this demo has to offer!
 
 Current Progress for the Site Prototype:
 

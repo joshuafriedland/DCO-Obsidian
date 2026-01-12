@@ -21,10 +21,12 @@ One of the hardest parts about writing knowledge for the IOC is the balance of h
 
 #### Creating institutional definitions
 
-Another great feature of internal links is the ability to create a link to a specific `## Header` inside of a document.  Combining this with the ability to preview internal links when hovering your mouse over them, we can create definitions for both general and institutional nomenclature.  
+Another great feature of Quartz is the ability to create a `popover-hint` inside of a document.  Combining this with the ability to preview internal links when hovering your mouse over them, we can create definitions for both general and institutional nomenclature.  
 
 > [!example]-
-> Instead of seeing the entire page for the [[IOC]] team, we can link to the header of the article like so:  [IOC](IOC.md#IOC).  By doing this, it ensures that whenever we make changes to the definitions of IOC, it will be reflected in every article that references it.  If were to have an additional name change in the future, we could change the name of the original file to our new acronym, and all of our documentation would update instantly.
+> Instead of seeing the entire page for the [[IOC]] team, we can create a `popover-hint` that will give the definition of the the service owner IOC.  This will allow us to create definitions of many different areas of knowledge while still expanding on the #training we provide for them in the markdown file itself.
+>  > [!warning]
+>  > This currently requires us to enable a plugin called `popover previews`.  We are not ready to enable addons until we get feedback from the [[IOC]] manager and staff members.
 
 
 #### Visualizing connections
